@@ -11,7 +11,7 @@ shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​
         ['Enabled'] = (true),
         ['Toggle'] = ('C'), --[[ For Target Mode ]]
         ['Field'] = ('Box'), --[[ Box, Circle ]]
-        ['Mode'] = ('Automatic'), --[[ Automatic, Target (Disabled) ]]
+        ['Mode'] = ('Target'), --[[ Automatic, Target (Disabled) ]]
                                                                                                                  --[[ Must have Automated enabled to use these (prediction formula for offbrands) ]]
         ['Prediction'] = { ['Enabled'] = (false), ['Ground'] = (0.135), ['Air'] = (0.135), ['Automated'] = (false), ['Stabilize'] = (4.8), ['YStabilize'] = { ['Enabled'] = (false), ['Value'] = (2) } },
                                                           --[[ Basic, Advanced ]]
